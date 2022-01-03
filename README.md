@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# Como implementar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+paso 1) git clone https://github.com/JoniMeichtry11/Budget-Whit-React.git
 
-Por hacer: {
-    total Balance: incomplete,
-    TemainingMoney: incomplete
-}
+paso 2) npm i
+
+paso 3) npm start
+
+Listo! :D
