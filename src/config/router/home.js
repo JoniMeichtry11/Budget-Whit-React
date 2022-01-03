@@ -13,7 +13,7 @@ export default function Home(){
                     <button className="btn btn-primary btn-lg">Install APP</button>
                 </div>
 
-                <h4>--BUDGETS CREATED--</h4>
+                <h4 style={{color: "white"}}>--BUDGETS CREATED--</h4>
 
                 <div className="m-3 d-grid col-12 mx-auto">
                     <button className="btn btn-warning btn-lg">
